@@ -1,3 +1,1 @@
-Technical Project Manager with a strong foundation in Data Science, Python, and Machine Learning.
-Experienced in VMware virtualization, cloud infrastructure, and server technologies.
-CI/CD enthusiast driving efficient, scalable, and automated deployment pipelines.
+Technical Project Manager with 16+ years of experience delivering large-scale infrastructure, cloud, and AI/ML initiatives across VMware, Windows/Linux, data center consolidation, and multi-cloud environments (AWS & Azure). Proven expertise in program management, migration strategy, cross-functional leadership, and data-driven decision making. Adept at bridging technical depth with business outcomes, driving cost savings, performance improvements, and successful enterprise transformations.
